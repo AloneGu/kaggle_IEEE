@@ -1,0 +1,5 @@
+results/
+*.jpg
+*.h5
+input/
+*/.ipy*/
